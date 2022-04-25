@@ -15,7 +15,7 @@ A mixed-tapes is a very simple Symfony app used for learning Symfony 6 fundament
 
 1.  [Symfony](https://symfony.com/)
 2.  [PHP](https://www.php.net/)
-3.  [Stimulus](https://stimulus.hotwired.dev/
+3.  [Stimulus](https://stimulus.hotwired.dev/)
 
 # Use for reference
 
