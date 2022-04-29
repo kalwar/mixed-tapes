@@ -21,13 +21,29 @@ A mixed-tapes is a very simple Symfony app used for learning Symfony 6 fundament
 2.  [PHP](https://www.php.net/)
 3.  [Stimulus](https://stimulus.hotwired.dev/)
 
-# Some useful symfony commands
+# Symfony commands
 
 ```
 symfony serve --help
 symfony server:status
 symfony server:stop
 symfony serve -d
+
+composer require templates
+composer recipes
+composer require symfony/asset
+symfony console
+
+php bin/console debug:router
+php bin/console router:match
+php bin/console router:match /api/songs/11
+php bin/console debug:autowiring
+php bin/console debug:autowiring log
+php bin/console debug:autowiring twig
+
+composer require encore
+composer require symfony/ux-turbo
+
 ```
 
 # Use for reference
