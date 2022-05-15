@@ -1,6 +1,6 @@
 # mixed-tapes
 
-A mixed-tapes is a very simple Symfony app used for learning Symfony 6 fundamentals.
+A mixed-tapes is a very simple Symfony app used for learning Symfony 6 fundamentals, courtesy of SymfonyCast.
 
 ---
 
